@@ -1,0 +1,11 @@
+C:\Users\Senai132\Desktop\Aula07POOEncapsulamento\bin\Debug\netcoreapp3.1\Aula07POOEncapsulamento.exe
+C:\Users\Senai132\Desktop\Aula07POOEncapsulamento\bin\Debug\netcoreapp3.1\Aula07POOEncapsulamento.deps.json
+C:\Users\Senai132\Desktop\Aula07POOEncapsulamento\bin\Debug\netcoreapp3.1\Aula07POOEncapsulamento.runtimeconfig.json
+C:\Users\Senai132\Desktop\Aula07POOEncapsulamento\bin\Debug\netcoreapp3.1\Aula07POOEncapsulamento.runtimeconfig.dev.json
+C:\Users\Senai132\Desktop\Aula07POOEncapsulamento\bin\Debug\netcoreapp3.1\Aula07POOEncapsulamento.dll
+C:\Users\Senai132\Desktop\Aula07POOEncapsulamento\bin\Debug\netcoreapp3.1\Aula07POOEncapsulamento.pdb
+C:\Users\Senai132\Desktop\Aula07POOEncapsulamento\obj\Debug\netcoreapp3.1\Aula07POOEncapsulamento.csprojAssemblyReference.cache
+C:\Users\Senai132\Desktop\Aula07POOEncapsulamento\obj\Debug\netcoreapp3.1\Aula07POOEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\Senai132\Desktop\Aula07POOEncapsulamento\obj\Debug\netcoreapp3.1\Aula07POOEncapsulamento.AssemblyInfo.cs
+C:\Users\Senai132\Desktop\Aula07POOEncapsulamento\obj\Debug\netcoreapp3.1\Aula07POOEncapsulamento.dll
+C:\Users\Senai132\Desktop\Aula07POOEncapsulamento\obj\Debug\netcoreapp3.1\Aula07POOEncapsulamento.pdb
